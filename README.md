@@ -1,5 +1,7 @@
 # graph-bars-font
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua/)
+
 OTF font with vertical bars for one-line ASCII spectrum analyzers, graphs, etc.
 
 ![Example 1](./example1.png)
