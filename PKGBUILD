@@ -1,6 +1,6 @@
 pkgname=graph-bars-font
 pkgver=1.0
-pkgrel=1
+pkgrel=2
 
 pkgdesc="OTF font with vertical bars for one-line ASCII spectrum analyzers, graphs, etc"
 
